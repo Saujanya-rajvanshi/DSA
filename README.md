@@ -1,6 +1,6 @@
 # DSA
 
-#### patterns
+#### patterns 
 https://github.com/Saujanya-rajvanshi/Striver
 
 #### stl
