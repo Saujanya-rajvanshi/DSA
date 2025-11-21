@@ -8,3 +8,6 @@ https://github.com/Saujanya-rajvanshi/STL
 
 #### recursion
 https://github.com/Saujanya-rajvanshi/recursion
+
+#### sorting and searching
+https://github.com/Saujanya-rajvanshi/Sorting-and-searching-
