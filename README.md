@@ -11,3 +11,6 @@ https://github.com/Saujanya-rajvanshi/recursion
 
 #### sorting and searching
 https://github.com/Saujanya-rajvanshi/Sorting-and-searching-
+
+#### arrays
+https://github.com/Saujanya-rajvanshi/Arrays-
