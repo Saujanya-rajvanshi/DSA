@@ -6,6 +6,9 @@ https://github.com/Saujanya-rajvanshi/Striver
 #### stl
 https://github.com/Saujanya-rajvanshi/STL
 
+#### basic maths
+https://github.com/Saujanya-rajvanshi/basic-maths
+
 #### recursion
 https://github.com/Saujanya-rajvanshi/recursion
 
