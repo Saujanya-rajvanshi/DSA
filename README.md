@@ -5,7 +5,7 @@ THEO
 https://github.com/Saujanya-rajvanshi/Striver
 <BR>
 QUE
-https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question
+https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-
 
 #### stl
 https://github.com/Saujanya-rajvanshi/STL
