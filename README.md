@@ -1,9 +1,9 @@
 # DSA
 
 #### patterns 
-1. THEO https://github.com/Saujanya-rajvanshi/Striver
+https://github.com/Saujanya-rajvanshi/Striver
 <BR>
-2. QUE https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question
+https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question
 
 #### stl
 https://github.com/Saujanya-rajvanshi/STL
