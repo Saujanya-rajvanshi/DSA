@@ -1,7 +1,5 @@
 # DSA
 
------------
-
 #### patterns 
 1. THEO https://github.com/Saujanya-rajvanshi/Striver
 <BR>
