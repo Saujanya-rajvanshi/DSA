@@ -1,10 +1,12 @@
 # DSA
 
+-----------
+
 #### patterns 
 https://github.com/Saujanya-rajvanshi/Striver
 <BR>
 https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question
-
+-----------
 #### stl
 https://github.com/Saujanya-rajvanshi/STL
 
