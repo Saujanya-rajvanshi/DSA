@@ -2,10 +2,10 @@
 
 #### patterns 
 THEO
-https://github.com/Saujanya-rajvanshi/Striver
+[PATTERNS - all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
 <BR>
 QUE
-https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-
+[PRACTICE - leetcode practice question](https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-)
 
 #### stl
 https://github.com/Saujanya-rajvanshi/STL
