@@ -1,21 +1,21 @@
 # DSA
 
 #### patterns 
-[PATTERNS - all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
+[all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
 <BR>
-[PRACTICE - leetcode practice question](https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-)
+[leetcode practice question](https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-)
 
 #### stl
-https://github.com/Saujanya-rajvanshi/STL
+[stl repository](https://github.com/Saujanya-rajvanshi/STL)
 
 #### basic maths
-https://github.com/Saujanya-rajvanshi/basic-maths
+[basic maths codes](https://github.com/Saujanya-rajvanshi/basic-maths)
 
 #### recursion
-https://github.com/Saujanya-rajvanshi/recursion
+[recusion repository](https://github.com/Saujanya-rajvanshi/recursion)
 
 #### sorting and searching
-https://github.com/Saujanya-rajvanshi/Sorting-and-searching-
+[searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 
 #### arrays
-https://github.com/Saujanya-rajvanshi/Arrays-
+[array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
