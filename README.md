@@ -1,10 +1,8 @@
 # DSA
 
 #### patterns 
-THEO
 [PATTERNS - all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
 <BR>
-QUE
 [PRACTICE - leetcode practice question](https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-)
 
 #### stl
