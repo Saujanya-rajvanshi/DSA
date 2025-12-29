@@ -17,5 +17,5 @@
 #### sorting and searching
 [searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 
-#### arrays
+#### array
 [array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
