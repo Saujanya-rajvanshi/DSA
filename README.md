@@ -1,6 +1,6 @@
 # DSA
 
-#### patterns
+#### pattern
 [all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
 <BR>
 [leetcode practice question](https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-)
