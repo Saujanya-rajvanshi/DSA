@@ -2,8 +2,6 @@
 
 #### patterns
 [all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
-<BR>
-[leetcode practice question](https://github.com/Saujanya-rajvanshi/Patterns-Leetcode-Question-)
 
 #### stl
 [stl repository](https://github.com/Saujanya-rajvanshi/STL)
