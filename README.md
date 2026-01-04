@@ -208,5 +208,19 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 ---
 
 
-#### array
-[array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
+## basic data structure
+
+#### array 
+- [array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
+
+#### list 
+
+#### stack 
+
+#### queue
+
+#### tree
+
+#### graph
+
+
