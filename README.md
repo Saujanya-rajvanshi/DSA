@@ -5,9 +5,8 @@
 - [checklist](#checklist)
 - [Programming Language](https://github.com/Saujanya-rajvanshi/C-)
 - [OOPs basic](https://github.com/Saujanya-rajvanshi/THEORY)
-- [dsa definition and types](#definition-and-types)
+- [dsa definition and types](https://github.com/Saujanya-rajvanshi/DSA-basic)
 - [basic data structure](#basic-data-structure)
-
 
 
 #### patterns
