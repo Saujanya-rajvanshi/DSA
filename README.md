@@ -1,5 +1,7 @@
 # DSA
 
+#### basic 
+
 #### patterns
 [all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
 
