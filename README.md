@@ -213,12 +213,14 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 - [array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
 
 #### list 
+- [list repository](https://github.com/Saujanya-rajvanshi/linked-list)
 
 #### stack 
 
 #### queue
 
 #### tree
+-[tree repository](#https://github.com/Saujanya-rajvanshi/trees)
 
 #### graph
 
