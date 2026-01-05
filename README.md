@@ -216,8 +216,10 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 - [list repository](https://github.com/Saujanya-rajvanshi/linked-list)
 
 #### stack 
+- [stack repository](https://github.com/Saujanya-rajvanshi/stack)
 
 #### queue
+- [queue repository](https://github.com/Saujanya-rajvanshi/queue)
 
 #### tree
 - [tree repository](https://github.com/Saujanya-rajvanshi/trees)
