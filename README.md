@@ -220,9 +220,9 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 #### queue
 
 #### tree
--[tree repository](#https://github.com/Saujanya-rajvanshi/trees)
+-[tree repository](https://github.com/Saujanya-rajvanshi/trees)
 
 #### graph
-- [graph repository](#https://github.com/Saujanya-rajvanshi/graph)
+- [graph repository](https://github.com/Saujanya-rajvanshi/graph)
 
 
