@@ -24,10 +24,10 @@
 #### sorting and searching
 [searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 
-## roadmap
+# roadmap
 https://roadmap.sh/datastructures-and-algorithms?fl=0
 
-### checklist 
+##### checklist 
 ---
 
 ## 🔵 DSA ROADMAP – CHECKLIST
