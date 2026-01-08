@@ -6,17 +6,10 @@
 - [Programming Language](https://github.com/Saujanya-rajvanshi/C-)
 - [OOPs basic](https://github.com/Saujanya-rajvanshi/THEORY)
 - [dsa definition and types](https://github.com/Saujanya-rajvanshi/DSA-basic)
+- [striver pattern](https://github.com/Saujanya-rajvanshi/Striver)
+- [stl](https://github.com/Saujanya-rajvanshi/STL)
+- [basic maths codes](https://github.com/Saujanya-rajvanshi/basic-maths)
 - [basic data structure](#basic-data-structure)
-- [c](#c)
-
-#### patterns
-[all striver pattern question](https://github.com/Saujanya-rajvanshi/Striver)
-
-#### stl
-[stl repository](https://github.com/Saujanya-rajvanshi/STL)
-
-#### basic maths
-[basic maths codes](https://github.com/Saujanya-rajvanshi/basic-maths)
 
 #### recursion
 [recusion repository](https://github.com/Saujanya-rajvanshi/recursion)
