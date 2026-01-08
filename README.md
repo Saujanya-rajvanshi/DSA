@@ -24,15 +24,15 @@
 #### sorting and searching
 [searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 
-### roadmap
+## roadmap
 https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ### checklist 
 ---
 
-# 🔵 DSA ROADMAP – CHECKLIST
+## 🔵 DSA ROADMAP – CHECKLIST
 
-## 🔵 Programming Fundamentals
+### 🔵 Programming Fundamentals
 
 * [ ] Pick a Language
 
@@ -50,12 +50,12 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Data Structures Basics
+### 🔵 Data Structures Basics
 
 * [ ] What are Data Structures?
 * [ ] Why are Data Structures Important?
 
-### 🔹 Basic Data Structures
+#### 🔹 Basic Data Structures
 
 * [ ] Array
 * [ ] Linked List
@@ -65,18 +65,18 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Algorithmic Complexity
+### 🔵 Algorithmic Complexity
 
 * [ ] Time vs Space Complexity
 * [ ] How to Calculate Complexity?
 
-### 🔹 Asymptotic Notation
+#### 🔹 Asymptotic Notation
 
 * [ ] Big-O
 * [ ] Big-Ω
 * [ ] Big-Θ
 
-### 🔹 Common Runtimes
+#### 🔹 Common Runtimes
 
 * [ ] Constant
 * [ ] Logarithmic
@@ -87,14 +87,14 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Searching Algorithms
+### 🔵 Searching Algorithms
 
 * [ ] Linear Search
 * [ ] Binary Search
 
 ---
 
-## 🔵 Sorting Algorithms
+### 🔵 Sorting Algorithms
 
 * [ ] Bubble Sort
 * [ ] Selection Sort
@@ -105,7 +105,7 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Tree Data Structures
+### 🔵 Tree Data Structures
 
 * [ ] Binary Tree
 * [ ] Binary Search Tree
@@ -126,30 +126,30 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Graph Data Structures
+### 🔵 Graph Data Structures
 
 * [ ] Directed Graph
 * [ ] Undirected Graph
 
-### 🔹 Graph Traversals
+#### 🔹 Graph Traversals
 
 * [ ] BFS
 * [ ] DFS
 
-### 🔹 Shortest Path Algorithms
+#### 🔹 Shortest Path Algorithms
 
 * [ ] Dijkstra’s Algorithm
 * [ ] Bellman-Ford Algorithm
 * [ ] A* Algorithm
 
-### 🔹 Minimum Spanning Tree
+#### 🔹 Minimum Spanning Tree
 
 * [ ] Prim’s Algorithm
 * [ ] Kruskal’s Algorithm
 
 ---
 
-## 🔵 Advanced Data Structures
+### 🔵 Advanced Data Structures
 
 * [ ] Trie
 * [ ] Segment Tree
@@ -159,7 +159,7 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Complex Data Structures
+### 🔵 Complex Data Structures
 
 * [ ] 2–3 Trees
 * [ ] B / B+ Trees
@@ -168,14 +168,14 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Indexing
+### 🔵 Indexing
 
 * [ ] Linear Indexing
 * [ ] Tree-Based Indexing
 
 ---
 
-## 🔵 Problem Solving Techniques
+### 🔵 Problem Solving Techniques
 
 * [ ] Brute Force
 * [ ] Backtracking
@@ -187,7 +187,7 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 * [ ] Two Pointer Technique
 * [ ] Sliding Window Technique
 
-### 🔹 Pattern-Based Problems
+#### 🔹 Pattern-Based Problems
 
 * [ ] Island Traversal
 * [ ] Merge Intervals
@@ -199,7 +199,7 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ---
 
-## 🔵 Platforms to Practice
+### 🔵 Platforms to Practice
 
 * [ ] LeetCode
 * [ ] Edabit
