@@ -38,14 +38,6 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
   * [ ] C++
 
-* [ ] Language Syntax
-
-* [ ] Control Structures
-
-* [ ] Pseudo Code
-
-* [ ] Functions
-
 * [ ] OOP Basics
 
 ---
