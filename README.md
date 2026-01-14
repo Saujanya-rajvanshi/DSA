@@ -15,10 +15,6 @@
 
 
 
-
-
-
-
 # roadmap
 https://roadmap.sh/datastructures-and-algorithms?fl=0
 
@@ -214,25 +210,5 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 #### graph
 - [graph repository](https://github.com/Saujanya-rajvanshi/graph)
 
-
----
-##### c
-## Difference between Array and Linked List
-
-| **Array**                                           | **Linked List**                                  |
-| --------------------------------------------------- | ------------------------------------------------ |
-| Collection of elements of **same data type**        | Collection of **nodes** (data + address)         |
-| Stored in **contiguous memory locations**           | Stored in **non-contiguous (random) memory**     |
-| **Fixed size** (static memory allocation)           | **Dynamic size** (memory allocated at runtime)   |
-| Memory allocated at **compile time**                | Memory allocated at **run time**                 |
-| **Direct access** possible using index → O(1)       | **Sequential access only** → O(n)                |
-| Insertion & deletion are **slow** (shifting needed) | Insertion & deletion are **fast** (no shifting)  |
-| Memory utilization can be **inefficient**           | Memory utilization is **efficient**              |
-| Requires **less memory** (no extra pointer)         | Requires **extra memory** for pointer/reference  |
-| Easy to implement                                   | More complex (pointer management)                |
-| Resizing requires **copying elements**              | No resizing overhead                             |
-| Suitable for **fixed-size & random access**         | Suitable for **dynamic data & frequent updates** |
-| Binary search possible (if sorted)                  | Binary search **not possible**                   |
-| Cache-friendly                                      | Less cache-friendly                              |
 
 ---
