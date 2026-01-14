@@ -9,13 +9,15 @@
 - [striver pattern](https://github.com/Saujanya-rajvanshi/Striver)
 - [stl](https://github.com/Saujanya-rajvanshi/STL)
 - [basic maths codes](https://github.com/Saujanya-rajvanshi/basic-maths)
+- [recusion repository](https://github.com/Saujanya-rajvanshi/recursion)
+- [searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 - [basic data structure](#basic-data-structure)
 
-#### recursion
-[recusion repository](https://github.com/Saujanya-rajvanshi/recursion)
 
-#### sorting and searching
-[searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
+
+
+
+
 
 # roadmap
 https://roadmap.sh/datastructures-and-algorithms?fl=0
