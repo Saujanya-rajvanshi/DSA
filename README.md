@@ -192,23 +192,17 @@ https://roadmap.sh/datastructures-and-algorithms?fl=0
 
 ## basic data structure
 
-#### array 
-- [array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
+* **array** - [array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
 
-#### list 
-- [list repository](https://github.com/Saujanya-rajvanshi/linked-list)
+* **list** - [list repository](https://github.com/Saujanya-rajvanshi/linked-list)
 
-#### stack 
-- [stack repository](https://github.com/Saujanya-rajvanshi/stack)
+* **stack** - [stack repository](https://github.com/Saujanya-rajvanshi/stack)
 
-#### queue
-- [queue repository](https://github.com/Saujanya-rajvanshi/queue)
+* **queue** - [queue repository](https://github.com/Saujanya-rajvanshi/queue)
 
-#### tree
-- [tree repository](https://github.com/Saujanya-rajvanshi/trees)
+* **tree** - [tree repository](https://github.com/Saujanya-rajvanshi/trees)
 
-#### graph
-- [graph repository](https://github.com/Saujanya-rajvanshi/graph)
+* **graph** - [graph repository](https://github.com/Saujanya-rajvanshi/graph)
 
 
 ---
