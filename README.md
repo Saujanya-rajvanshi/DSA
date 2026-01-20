@@ -15,10 +15,12 @@
 
 
 
-## roadmap
+###### roadmap
+# 🌟 ROADMAP
  🌿 https://roadmap.sh/datastructures-and-algorithms?fl=0
 
-## checklist 
+###### checklist 
+# 🌟 CHECKLIST
 
 ### 🌿 Programming Fundamentals
 
