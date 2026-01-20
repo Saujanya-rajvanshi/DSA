@@ -17,7 +17,7 @@
 
 ###### roadmap
 # 🌟 ROADMAP
- 🌿 https://roadmap.sh/datastructures-and-algorithms?fl=0
+ 🌿 - [roadmap](https://roadmap.sh/datastructures-and-algorithms?fl=0)
 
 ###### checklist 
 # 🌟 CHECKLIST
