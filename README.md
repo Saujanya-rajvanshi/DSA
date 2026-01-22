@@ -14,6 +14,7 @@
 - [basic data structure](#basic-data-structure)
 - [searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 - [Algorithmic Complexity](#Algorithmic-Complexity)
+- [Tree Data Structures](#Tree-Data-Structures)
 - [Graph Data Structure](#Graph-Data-Structure)
 - [Advanced Data Structures](#Advanced-Data-Structures)
 - [Complex Data Structures](#Complex-Data-Structures)
