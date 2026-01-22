@@ -10,6 +10,7 @@
 - [stl](https://github.com/Saujanya-rajvanshi/STL)
 - [basic maths codes](https://github.com/Saujanya-rajvanshi/basic-maths)
 - [recusion repository](https://github.com/Saujanya-rajvanshi/recursion)
+- [hashing](#https://github.com/Saujanya-rajvanshi/recursion/blob/main/README.md#hashing)
 - [searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 - [basic data structure](#basic-data-structure)
 
