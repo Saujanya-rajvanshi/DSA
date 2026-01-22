@@ -12,7 +12,8 @@
 - [recusion repository](https://github.com/Saujanya-rajvanshi/recursion)
 - [hashing](https://github.com/Saujanya-rajvanshi/recursion/blob/main/README.md#hashing)
 - [basic data structure](#basic-data-structure)
-- [searching and sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
+- [sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
+- [searching repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-/blob/main/README.md#searching-2)
 - [Algorithmic Complexity](#Algorithmic-Complexity)
 - [Tree Data Structures](#Tree-Data-Structures)
 - [Graph Data Structure](#Graph-Data-Structure)
@@ -21,8 +22,6 @@
 - [Indexing](#Indexing)
 - [Problem Solving Techniques](#Problem-Solving-Techniques)
 - [Platforms for Practice](#Platforms-for-Practice)
-
-
 
 
 ###### roadmap
