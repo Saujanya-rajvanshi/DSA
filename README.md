@@ -116,6 +116,84 @@ Measures cache misses and memory hierarchy use. <br>
 * 17. **Parallel Complexity**
 Measures time using multiple processors. <br>
 Includes work and span. <br>
+
+---
+
+Here are **all the algorithm complexity NOTATIONS** used to express efficiency — **clean list + meaning**, exam-perfect.
+
+---
+
+## ✅ Asymptotic Notations
+
+Asymptotic notations describe how **time/space grows as input size (n) → ∞**.
+
+---
+
+### 1️⃣ **Big-O Notation — `O(f(n))`**
+
+**Upper bound** (worst-case)
+
+> Algorithm will **not take more than** this time.
+
+Example:
+`O(n²)`
+
+---
+
+### 2️⃣ **Big-Ω (Omega) — `Ω(f(n))`**
+
+**Lower bound** (best-case)
+
+> Algorithm will take **at least** this much time.
+
+Example:
+`Ω(n)`
+
+---
+
+### 3️⃣ **Big-Θ (Theta) — `Θ(f(n))`**
+
+**Tight bound** (exact growth)
+
+> Both upper and lower bound.
+
+Example:
+`Θ(n log n)`
+
+---
+
+### 4️⃣ **Little-o Notation — `o(f(n))`**
+
+**Strict upper bound**
+
+> Grows **slower than** `f(n)`.
+
+Example:
+`n = o(n²)`
+
+---
+
+### 5️⃣ **Little-ω (Omega) — `ω(f(n))`**
+
+**Strict lower bound**
+
+> Grows **faster than** `f(n)`.
+
+Example:
+`n² = ω(n)`
+
+---
+
+## 📌 Comparison Summary Table
+
+| Notation | Bound Type   | Case         |
+| -------- | ------------ | ------------ |
+| **O**    | Upper bound  | Worst        |
+| **Ω**    | Lower bound  | Best         |
+| **Θ**    | Tight bound  | Exact        |
+| **o**    | Strict upper | Less than    |
+| **ω**    | Strict lower | Greater than |
+
 ---
 
 ## Time Complexity
