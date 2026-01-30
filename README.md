@@ -142,12 +142,22 @@ Asymptotic notations describe how **time/space grows as input size (n) → ∞**
 > Grows **faster than** `f(n)`.
 
 ## Time Complexity
+
 Time Complexity = how the execution time grows with input size n.<br>
 it is not equal to the actual time taken by the program to be executed <br>
-it cannot be set as time taken because every machine will take different time.
+it cannot be set as time taken because every machine will take different time. <br>
+<br>
+* TC considers worst case scenerrio
+* Avoid constants : In time complexity we don’t measure the exact running time in seconds. <br>
+We measure how the time grows when input size n becomes very large. <br>
+A constant like +3, +1000, or even +1,000,000 does not grow with n. <br>
+* Avoid lower values. 
 
-2️⃣ Space Complexity
+
+## Space Complexity
+
 Space Complexity = total memory used by an algorithm.
 📌 Components
 Fixed part → constants, variables
 Variable part → input size, recursion stack, dynamic memory
+
