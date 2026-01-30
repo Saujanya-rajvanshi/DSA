@@ -151,13 +151,45 @@ it cannot be set as time taken because every machine will take different time. <
 * Avoid constants : In time complexity we don’t measure the exact running time in seconds. <br>
 We measure how the time grows when input size n becomes very large. <br>
 A constant like +3, +1000, or even +1,000,000 does not grow with n. <br>
-* Avoid lower values. 
+* Avoid lower values.
 
+1s -> 10^8 operations <br>
+2s -> 2 * 10^8 operations <br>
+5s -> 5 * 10^8 operations <br>
+ns -> n * 10^8 operations <br>
 
 ## Space Complexity
 
-Space Complexity = total memory used by an algorithm.
-📌 Components
-Fixed part → constants, variables
-Variable part → input size, recursion stack, dynamic memory
+Space complexity = total memory used by an algorithm.
+
+1. **Input space** → memory to store input data.
+2. **Auxiliary space** → extra memory used by the algorithm (variables, arrays, recursion stack).
+In Big-O we usually talk about **auxiliary space**.
+
+Examples:
+
+* Only few variables → `O(1)` (constant space)
+
+  ```cpp
+  int a, b, sum;
+  ```
+* Extra array of size `n` → `O(n)`
+
+  ```cpp
+  vector<int> temp(n);
+  ```
+* 2D array `n × n` → `O(n²)`
+
+Recursion:
+
+* Each recursive call uses stack memory.
+  If depth = `n` → space `O(n)`.
+
+Rules:
+
+* Ignore constant space: 5 variables → still `O(1)`
+* Count only space that grows with `n`.
+
+Goal in optimization:
+Use less extra memory while keeping good time complexity.
 
