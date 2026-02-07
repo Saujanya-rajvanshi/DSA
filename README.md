@@ -1,8 +1,11 @@
 # DSA
 
+solve problems not theory 
+give contest solve 
+
 ### INDEX
 - [roadmap](#roadmap)
-- [checklist](#checklist)
+- [checklist](#https://1drv.ms/x/c/467360d9dc29e9d6/IQCTuQ4ppoMwQpQ19YAvi3vTAQlD6POMfeIAZ_kF691xJOM?e=DVvxoN)
 - [Programming Language](https://github.com/Saujanya-rajvanshi/C-)
 - [OOPs basic](https://github.com/Saujanya-rajvanshi/THEORY)
 - [dsa definition and types](https://github.com/Saujanya-rajvanshi/DSA-basic)
