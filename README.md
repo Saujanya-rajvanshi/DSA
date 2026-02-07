@@ -17,9 +17,12 @@ give contest solve
 - [hashing](https://github.com/Saujanya-rajvanshi/recursion/blob/main/README.md#hashing)
 - [sorting repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-)
 - [searching repository](https://github.com/Saujanya-rajvanshi/Sorting-and-searching-/blob/main/README.md#searching-2)
-- [basic data structure](#basic-data-structure)
-- [Tree Data Structures](#Tree-Data-Structures)
-- [Graph Data Structure](#Graph-Data-Structure)
+- [array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
+- [list repository](https://github.com/Saujanya-rajvanshi/linked-list)
+- [stack repository](https://github.com/Saujanya-rajvanshi/stack)
+- [queue repository](https://github.com/Saujanya-rajvanshi/queue)
+- [Tree Data Structures](https://github.com/Saujanya-rajvanshi/trees)
+- [Graph Data Structure](https://github.com/Saujanya-rajvanshi/graph)
 - [Advanced Data Structures](#Advanced-Data-Structures)
 - [Complex Data Structures](#Complex-Data-Structures)
 - [Indexing](#Indexing)
@@ -32,19 +35,6 @@ give contest solve
  🌿 - [roadmap](https://roadmap.sh/datastructures-and-algorithms?fl=0)
 
 
-## basic data structure
-
-* **array** - [array repository](https://github.com/Saujanya-rajvanshi/Arrays-)
-
-* **list** - [list repository](https://github.com/Saujanya-rajvanshi/linked-list)
-
-* **stack** - [stack repository](https://github.com/Saujanya-rajvanshi/stack)
-
-* **queue** - [queue repository](https://github.com/Saujanya-rajvanshi/queue)
-
-* **tree** - [tree repository](https://github.com/Saujanya-rajvanshi/trees)
-
-* **graph** - [graph repository](https://github.com/Saujanya-rajvanshi/graph)
 
 
 ---
