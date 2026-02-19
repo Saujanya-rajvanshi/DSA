@@ -142,6 +142,12 @@ Asymptotic notations describe how **time/space grows as input size (n) → ∞**
 **Strict lower bound**
 > Grows **faster than** `f(n)`.
 
+
+
+
+<img width="620" height="654" alt="image" src="https://github.com/user-attachments/assets/2e4b7360-e439-41ad-8b13-fc22384fc109" />
+
+
 ## Time Complexity
 
 Time Complexity = how the execution time grows with input size n.<br>
