@@ -1,7 +1,7 @@
 # DSA
 
 solve problems not theory 
-give contest solve 
+give contest solve
 
 ### INDEX
 - [roadmap](#roadmap)
