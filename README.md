@@ -42,8 +42,35 @@ give contest solve
 # 🌟 ROADMAP
  🌿 - [roadmap](https://roadmap.sh/datastructures-and-algorithms?fl=0)
 
+### Step 1 — Foundation (Must Be Strong)
+* Arrays
+* Strings
+* Recursion
+* Hashing
+* Sorting
+* Binary Search
+* Sliding Window
+* Stack / Queue
+* Linked List
+<br>
+Without this → DP will feel impossible.
 
+### Step 2 — Core Structures
+* Binary Tree
+* BST
+* Heap
+* Graph
+<br>
+Now your thinking level increases.
 
+### Step 3 — Then Greedy & DP
+* Greedy
+* Backtracking
+* Dynamic Programming
+<br>
+DP is not a beginner topic.
+It needs strong recursion + pattern recog
+<br>
 
 ---
 
