@@ -355,6 +355,15 @@ Data structures are specialized formats for organizing and storing data in a com
 | **Examples**        | Static array, global variables         | Dynamic array, linked list, vector     |
 
 
+# Problem Solving Techniques
+
+- [array](https://github.com/Saujanya-rajvanshi/Arrays-?tab=readme-ov-file#problem-solving-techniques)
+
+
+# Platforms for Practice
+
+- [array](https://github.com/Saujanya-rajvanshi/Arrays-?tab=readme-ov-file#platforms-for-practice)
+
 
 
 
