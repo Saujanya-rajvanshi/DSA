@@ -1,6 +1,6 @@
 # DSA
 
-solve problems not theory 
+solve problems not theory <br>
 give contest solve
 
 ### INDEX
