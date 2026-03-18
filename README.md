@@ -289,6 +289,9 @@ Data structures are specialized formats for organizing and storing data in a com
 ###### primitive and non primitive
 ##  Primitive vs Non-Primitive Data Types
 
+* **Primitive:** Basic built-in data types that store **single values directly** (e.g., int, char, float).
+* **Non-Primitive:** Complex data types that store **multiple values or references** (e.g., arrays, vector, classes, objects).
+
 | **Aspect**       | **Primitive Data Types**        | **Non-Primitive Data Types**             |
 | ---------------- | ------------------------------- | ---------------------------------------- |
 | **Definition**   | Store **single, simple values** | Store **multiple or complex data**       |
@@ -311,6 +314,9 @@ Data structures are specialized formats for organizing and storing data in a com
 
 ######  linear and non linear
 ## Linear vs Non-Linear Data Structures 
+
+* **Linear:** Elements are arranged in a **sequential order**, one after another (e.g., array, linked list).
+* **Non-Linear:** Elements are arranged in a **hierarchical** or interconnected way (e.g., tree, graph).
 
 | **Aspect**                    | **Linear Data Structures**                                            | **Non-Linear Data Structures**                          |
 | ----------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -336,6 +342,10 @@ Data structures are specialized formats for organizing and storing data in a com
 
 ###### static and dynamic 
 ## Static vs Dynamic 
+
+* **Static:** Memory size is **fixed at compile time** and cannot change (e.g., arrays).
+* **Dynamic:** Memory size can **grow or shrink at runtime** (e.g., linked list, vector).
+
 
 | **Aspect**          | **Static**                             | **Dynamic**                            |
 | ------------------- | -------------------------------------- | -------------------------------------- |
