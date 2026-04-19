@@ -3,6 +3,98 @@
 solve problems not theory <br>
 give contest solve
 
+
+Steps 
+
+### 1️. Registration Opens
+
+On the - [website](https://www.kectopikindia.org/)  **“Register Now”** becomes active.
+
+You click it and fill the form.
+
+At this stage **anyone can access the form**.
+
+### 2️. You Submit the Form
+
+
+#### 📄 Documents Required
+
+You typically need **3 uploads**:
+
+1️. **Passport-size photo** : JPG format , Usually under **200 KB**
+
+2️. **ID Proof** : Aadhaar card / Passport / Government ID ,  JPG or PDF (depending on the form)
+
+3️. **Signature** : Your handwritten signature , Scan or photo , Usually under **100 KB**
+
+#### 📝 Registration Steps
+
+When registration opens, the process is usually:
+
+1. Click **Register Now**
+2. Fill basic details
+   * Name
+   * Date of birth
+   * Email
+   * Phone number
+3. Choose:
+   * **TOPIK I** (beginner) or **TOPIK II**
+   * **Exam city** (Delhi / Bengaluru / etc.)
+4. Upload:
+   * Photo
+   * ID proof
+   * Signature
+5. Submit the form
+
+
+
+### 3️. Payment Instructions
+
+If your application is accepted, they send:
+
+* **payment instructions**
+* sometimes a **payment deadline**
+
+### 4️. You Pay the Fee
+
+After you pay and send proof, they verify it.
+
+### 5. Final Confirmation
+
+Then they send a **confirmation email**.
+
+Only **after this step** your seat is **officially confirmed**.
+
+### Final Document
+
+About **1–2 weeks before the exam**, you receive:
+
+**Admission Ticket (수험표)**
+
+This contains:
+
+* your **exam center**
+* your **seat number**
+* exam time
+
+This is what you bring on exam day.
+<br>
+Tip: On registration day, **open the form right at 10:00 AM** because many people lose seats by being even **30–40 minutes late**.
+
+
+
+# steps for topik level I
+
+* hangul : 24 lettrs
+* vocabulary : 1000 words numbers, greetings, color, daily words
+* basic grammer : simple sentences ; past, present, future<img width="1080" height="1911" alt="image" src="https://github.com/user-attachments/assets/b13b83ee-f002-49ed-89f8-b9403c213438" />
+
+
+
+
+
+
+
 ### First 50 Common Korean Words
 
 | No. | Korean | Pronunciation | Meaning         | Usage / Example | Sentence Roman Pronunciation    | Example Meaning (English) |
