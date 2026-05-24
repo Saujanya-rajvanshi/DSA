@@ -3,7 +3,7 @@
 solve problems not theory <br>
 give contest solve
 
-| W     | R    | Y    | M    | H    | N    | T     | S     | K    |     |   |
+| W |    | R  |  | Y |   | M |   | H  |  | N  |  | T     | S     | K    |     |   |
 | ------ | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ---- | --- | - |
 | わ | wa   | ら ra | や ya | ま ma | は ha | な na | た ta  | さ sa  | か ka | あ a | A |
 | —      | り ri | —    | み mi | ひ hi | に ni | ち chi | し shi | き ki | い i | I |
