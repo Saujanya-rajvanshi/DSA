@@ -4,10 +4,9 @@ solve problems not theory <br>
 give contest solve
 
 
-
 ### INDEX
 - [roadmap](#roadmap)
-- [checklist](https://1drv.ms/x/c/467360d9dc29e9d6/IQCTuQ4ppoMwQpQ19YAvi3vTAQlD6POMfeIAZ_kF691xJOM?e=DVvxoN)
+- [checklist](#checklist)
 - [Programming Language](https://github.com/Saujanya-rajvanshi/C-)
 - [OOPs basic](https://github.com/Saujanya-rajvanshi/THEORY)
 - [dsa definition and types](#DSA-basic)
@@ -45,9 +44,11 @@ give contest solve
  🌿 - [roadmap](https://roadmap.sh/datastructures-and-algorithms?fl=0)
 
 
- DSA
+## checklist
+
 1 topic on weekdays 
 3 topic weekend's 
+
 Programming language 🫶
 Oops 🫶
 definition and types🫶
