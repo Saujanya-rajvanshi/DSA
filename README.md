@@ -5,7 +5,6 @@ give contest solve
 
 
 
-
 ### INDEX
 - [roadmap](#roadmap)
 - [checklist](https://1drv.ms/x/c/467360d9dc29e9d6/IQCTuQ4ppoMwQpQ19YAvi3vTAQlD6POMfeIAZ_kF691xJOM?e=DVvxoN)
@@ -44,6 +43,57 @@ give contest solve
 ###### roadmap
 # 🌟 ROADMAP
  🌿 - [roadmap](https://roadmap.sh/datastructures-and-algorithms?fl=0)
+
+
+ DSA
+1 topic on weekdays 
+3 topic weekend's 
+Programming language 🫶
+Oops 🫶
+definition and types🫶
+pattern 🫶
+Stl 🫶
+algorithm complexity  🫶
+recursion 
+Hashing 
+sorting 
+searching 
+array 16 ,avg 30 min (15 Feb)
+Revise (20 feb)
+Binary search  27 ,avg 25 min (10 march)
+Revise (15 march)
+String 15 (26 march)
+Revise (31 march )
+Linked List 31 (19 april)
+Revise (24 april)
+Recursion 25 (10 may)
+Revise (15 may)
+Bit manipulation 18(25 may)
+Revise (30 may)
+Stack and queue 30 (20 june)
+Revise (25 june)
+Sliding window & two pointer combined 12 (4 july)
+Revise (9 july)
+Heaps 17 (20 july)
+Revise (25 july)
+Greedy algorithm  16 (30 july)
+Revise (5 August)
+Binary tree 39 (30 August)
+Revise (5 September)
+Binary search tree 16 (15 September)
+Revise (30 september)
+Graph - 56 , avg 30 min  (8 November)
+Revise (13 November)
+Tree - 53 - avg 15 min (16 September)
+Revise (21 December)
+Dynamic programming - 18 , avg 40 min (3 January)
+ revise (8 September)
+Tries  7  (13 january)
+revise (18 January)
+Strings (25 january)
+Revise 
+
+
 
 ### Step 1 — Foundation (Must Be Strong)
 * Arrays
