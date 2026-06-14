@@ -3,6 +3,50 @@
 solve problems not theory <br>
 give contest solve
 
+Here is a **single table of algebraic properties** for the major number systems. ✓ means the property holds for **all elements** of that set, and ✗ means it does not.
+
+| Property                               | Natural Numbers (ℕ) | Whole Numbers (W) | Integers (ℤ) | Rational Numbers (ℚ) | Irrational Numbers | Real Numbers (ℝ) | Complex Numbers (ℂ) | Quaternions (ℍ) | Octonions (𝕆) |
+| -------------------------------------- | :-----------------: | :---------------: | :----------: | :------------------: | :----------------: | :--------------: | :-----------------: | :-------------: | :------------: |
+| **Closure under Addition (+)**         |          ✓          |         ✓         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Closure under Subtraction (−)**      |          ✗          |         ✗         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Closure under Multiplication (×)**   |          ✓          |         ✓         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Closure under Division (÷)**         |          ✗          |         ✗         |       ✗      |          ✓*          |          ✗         |        ✓*        |          ✓*         |        ✓*       |       ✓*       |
+| **Commutative under Addition**         |          ✓          |         ✓         |       ✓      |           ✓          |          ✓         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Commutative under Multiplication**   |          ✓          |         ✓         |       ✓      |           ✓          |          ✓         |         ✓        |          ✓          |        ✗        |        ✗       |
+| **Associative under Addition**         |          ✓          |         ✓         |       ✓      |           ✓          |          ✓         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Associative under Multiplication**   |          ✓          |         ✓         |       ✓      |           ✓          |          ✓         |         ✓        |          ✓          |        ✓        |        ✗       |
+| **Distributive Property**              |          ✓          |         ✓         |       ✓      |           ✓          |          ✓         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Additive Identity (0 exists)**       |          ✓          |         ✓         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Multiplicative Identity (1 exists)** |          ✓          |         ✓         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Additive Inverse exists**            |          ✗          |         ✗         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Multiplicative Inverse exists**      |          ✗          |         ✗         |       ✗      |          ✓*          |          ✗         |        ✓*        |          ✓*         |        ✓*       |       ✓*       |
+| **Ordered Set**                        |          ✓          |         ✓         |       ✓      |           ✓          |          ✗         |         ✓        |          ✗          |        ✗        |        ✗       |
+| **Countably Infinite**                 |          ✓          |         ✓         |       ✓      |           ✓          |          ✗         |         ✗        |          ✗          |        ✗        |        ✗       |
+| **Field**                              |          ✗          |         ✗         |       ✗      |           ✓          |          ✗         |         ✓        |          ✓          |        ✗        |        ✗       |
+| **Ring**                               |          ✗          |         ✗         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✗        |        ✗       |
+| **Division Algebra**                   |          ✗          |         ✗         |       ✗      |           ✓          |          ✗         |         ✓        |          ✓          |        ✓        |        ✓       |
+| **Commutative Ring**                   |          ✗          |         ✗         |       ✓      |           ✓          |          ✗         |         ✓        |          ✓          |        ✗        |        ✗       |
+
+### Notes
+
+* **✓*** means "except division by zero".
+* **Irrational numbers are not closed** under addition, subtraction, multiplication, or division.
+
+  * Example: (\sqrt2+\left(-\sqrt2\right)=0), and 0 is rational.
+* **Quaternions (ℍ)** are associative but **not commutative** under multiplication.
+* **Octonions (𝕆)** are neither commutative nor associative under multiplication, but they are **alternative algebras**.
+* **ℚ, ℝ, and ℂ are fields**, meaning they satisfy all the usual arithmetic properties and every nonzero element has a multiplicative inverse.
+
+### Hierarchy
+
+[
+\boxed{
+\mathbb N\subset W\subset\mathbb Z\subset\mathbb Q\subset\mathbb R\subset\mathbb C\subset\mathbb H\subset\mathbb O
+}
+]
+
+This table captures the algebraic properties usually studied in abstract algebra and higher mathematics.
+
 
 ### INDEX
 - [roadmap](#roadmap)
