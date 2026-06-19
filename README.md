@@ -4,17 +4,6 @@ solve problems not theory <br>
 give contest solve
 
 
-### Hierarchy
-
-[
-\boxed{
-\mathbb N\subset W\subset\mathbb Z\subset\mathbb Q\subset\mathbb R\subset\mathbb C\subset\mathbb H\subset\mathbb O
-}
-]
-
-This table captures the algebraic properties usually studied in abstract algebra and higher mathematics.
-
-
 ### INDEX
 - [roadmap](#roadmap)
 - [checklist](#checklist)
