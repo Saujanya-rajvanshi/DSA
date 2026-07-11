@@ -2,7 +2,7 @@
 
 solve problems not theory <br>
 give contest solve
-START
+START.
 
 ### INDEX
 - [roadmap](#roadmap)
