@@ -5,8 +5,6 @@ give contest solve
 START.
 
 ### INDEX
-- [roadmap](#roadmap)
-- [checklist](#checklist)
 - Programming Language
 - [OOPs basic](https://github.com/Saujanya-rajvanshi/THEORY)
 - [dsa definition and types](#DSA-basic)
@@ -39,78 +37,8 @@ START.
 - [Platforms for Practice](#Platforms-for-Practice)
 
 
-###### roadmap
-# 🌟 ROADMAP
- 🌿 - [roadmap](https://roadmap.sh/datastructures-and-algorithms?fl=0)
 
 
-## checklist
-<br>
-1 topic on weekdays <br>
-3 topic weekend's <br><br>
-
-* Programming language 🫶  
-* Oops 🫶 
-* definition and types🫶 
-* pattern 🫶
-* Stl 🫶
-* algorithm complexity  🫶
-* recursion 
-* Hashing 
-* sorting 
-* searching 
-* array 16 ,avg 30 min (15 Feb)
-* Binary search  27 ,avg 25 min (10 march)
-* String 15 (26 march)
-* Linked List 31 (19 april)
-* Recursion 25 (10 may)
-* Bit manipulation 18(25 may)
-* Stack and queue 30 (20 june)
-* Sliding window & two pointer combined 12 (4 july)
-* Heaps 17 (20 july)
-* Greedy algorithm  16 (30 july)
-* Binary tree 39 (30 August)
-* Binary search tree 16 (15 September)
-* Graph - 56 , avg 30 min  (8 November)
-* Tree - 53 - avg 15 min (16 September)
-* Dynamic programming - 18 , avg 40 min (3 January)
-* Tries  7  (13 january)
-* Strings (25 january)
- 
-
-
-
-### Step 1 — Foundation (Must Be Strong)
-* Arrays
-* Strings
-* Recursion
-* Hashing
-* Sorting
-* Binary Search
-* Sliding Window
-* Stack / Queue
-* Linked List
-<br>
-Without this → DP will feel impossible.
-
-### Step 2 — Core Structures
-* Binary Tree
-* BST
-* Heap
-* Graph
-<br>
-Now your thinking level increases.
-
-### Step 3 — Then Greedy & DP
-* Greedy
-* Backtracking
-* Dynamic Programming
-<br>
-DP is not a beginner topic.
-It needs strong recursion + pattern recog
-<br>
-
----
 
 # Algorithmic Complexity
 
