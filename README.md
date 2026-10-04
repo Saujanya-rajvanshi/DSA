@@ -22,7 +22,7 @@ START
 - [binary tree]()
 - [binary search tree]()
 - [bit manipulation]()
-- [sliding window & two pointer combined]()
+- [two pointer & sliding window](https://github.com/Saujanya-rajvanshi/Arrays-/blob/main/README.md#two-pointers-and-sliding-window)
 - [greedy algorithm]()
 - [List Data Structures](https://github.com/Saujanya-rajvanshi/linked-list)
 - [Stack Data Structures](https://github.com/Saujanya-rajvanshi/stack)
